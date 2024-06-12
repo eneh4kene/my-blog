@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "First Post",
+        "content": "This is my first post."
+    },
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Second Post",
+        "content": "This is another post."
+    },
+    {
+        "id": 4,
+        "author": "Neme",
+        "title": "FOURTH post",
+        "content": "I made it up"
+    },
+    {
+        "id": 5,
+        "author": "kc",
+        "title": "3rd blog post",
+        "content": "i like this post"
+    }
+]
